@@ -1,0 +1,16 @@
+{
+  "name": "Nexus Science — Science of Our World",
+  "short_name": "Nexus Science",
+  "description": "Interactive STEM science learning platform for young learners, covering systems, Earth, biology, chemistry, physics, and South African ecosystems. A product by Global IT and Business Solutions (Pty) Ltd.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

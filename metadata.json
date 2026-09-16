@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Science: Science of Our World",
+  "description": "Nexus Science™: Science of Our World. Interactive science course for young learners covering systems, Earth, biology, chemistry, physics, and scientific thinking with hands-on simulations. A product by Global IT and Business Solutions (Pty) Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
